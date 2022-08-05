@@ -1,0 +1,52 @@
+body {
+    background-image: url(https://img.freepik.com/free-vector/body-mass-index-weight-control-with-bmi-healthy-unhealthy-lifestyle-flat-vector-illustration-fitness-indicator-before-after-diet-overall-health-body-fat-scale-concept_88138-795.jpg?size=626&ext=jpg&ga=GA1.2.1960604793.1658475090);
+    height: 100%;
+    background-size: cover;
+}
+.container {
+    font-family: unset;
+    font-size: 50px;
+    text-align:center;
+    margin-top: 50px;
+    color:  rgb(144, 28, 92);
+}
+.subJudul {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10px;
+    color: rgb(200, 28, 123);
+}
+#paragraf {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    margin-left: 120px;
+    margin-top: 10px;
+    color: rgb(144, 28, 92);
+}
+.weight-input{
+    color: black;
+    margin-left: 120px;
+}
+.height-input {
+    margin-left: 120px;
+    color: black;
+}
+.calculate{
+    margin-left: 120px;
+    margin-top: 18px;
+}
+#result{
+    margin-left: 120px;
+    margin-top: 25px;
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(164, 22, 22);
+}
+#result-statement{
+    margin-left: 120px;
+    margin-top: 25px;
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(164, 22, 22);
+}
